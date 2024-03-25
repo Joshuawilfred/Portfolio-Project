@@ -1,0 +1,27 @@
+#FRONTEND
+# Logs
+artHub/logs
+artHub/*.log
+artHub/npm-debug.log*
+artHub/yarn-debug.log*
+artHub/yarn-error.log*
+artHub/pnpm-debug.log*
+artHub/lerna-debug.log*
+
+artHub/node_modules
+artHub/dist
+artHub/dist-ssr
+artHub/*.local
+
+# Editor directories and files
+artHub/.vscode/*
+artHub/!.vscode/extensions.json
+artHub/.idea
+artHub/.DS_Store
+artHub/*.suo
+artHub/*.ntvs*
+artHub/*.njsproj
+artHub/*.sln
+artHub/*.sw?
+
+#BACKEND
