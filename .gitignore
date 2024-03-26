@@ -25,3 +25,4 @@ artHub/*.sln
 artHub/*.sw?
 
 #BACKEND
+server/
