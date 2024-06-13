@@ -17,7 +17,12 @@
 
 The Logistics Management System is a comprehensive solution designed to address common challenges faced by logistics companies. The application provides functionalities for managing merchants, users, and packages. It includes a robust package tracking system, real-time SMS notifications, and an admin dashboard for generating reports.
 
-**Note:**  This repository is not the official release of the Logistics Management System. It has been created primarily to showcase a school project. The official project release is not yet available.
+### Aplication architecture
+
+![Application Architecture](screenshots/e-cargo-architecture.drawio.png)
+
+---
+**Note:**  This repository is not the official release nor repository of the Logistics Management System. It has been created primarily to showcase a school project. The official project release is not yet available.
 
 ## Features
 
@@ -156,18 +161,9 @@ Ensure you update the following configurations in your `.env` file:
 
 Import the provided Postman collection to test API endpoints.
 
-## Contributing
-
-Contributions are welcome! Please fork this repository and submit a pull request for review.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Screenshots
 
 ![Package Tracking Screenshot](screenshots/packages.png)
 
 ---
 
-For any queries or issues, please open an issue on GitHub or contact the maintainer.
